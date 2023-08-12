@@ -4,6 +4,7 @@ In an ever-changing economic landscape, the ability to anticipate and understand
 
 Project Overview:
 This repository hosts a comprehensive unemployment prediction model developed using multi-linear regression. By considering factors such as a country's GDP, population density, agricultural land utilization, and urban population, the model offers a holistic view of the intricate relationships affecting employment rates.
+![Alt text](image.png)
 
 Key Features:
 
